@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4643e7f93cd207f41933d18c866dbcf5, type: 3}
+  m_Name: audio - player - walking
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: f0562b64e9fa4794bb4f1905db3afa55, type: 3}
+  Translate: 0
+  RandomizeClip: 0
+  Options:
+    pitch: 1.58
+    leftOffset: 0.1
+    rightOffset: 0.1
+    volume: 0.1
+    spatialBlend: 0

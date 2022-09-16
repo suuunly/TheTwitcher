@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e43ddb4cc6d0488459c9db364a8c869a, type: 3}
+  m_Name: pool
+  m_EditorClassIdentifier: 
+  PoolCandidates:
+  - Amount: 15
+    Object: {fileID: 5181871705671089139, guid: 4765fca88034b492a8ae6cea1e8c3ada,
+      type: 3}
+  - Amount: 5
+    Object: {fileID: 7296881873694737618, guid: 1de948a546470465d96114256dcfaca4,
+      type: 3}
+  - Amount: 50
+    Object: {fileID: 1944580662258944980, guid: d3645f0ed3b2547fea30cf828d75ee66,
+      type: 3}
+  - Amount: 5
+    Object: {fileID: 4274372943109794545, guid: b4f88105c0aaf4a6f8be164ab281495b,
+      type: 3}
+  - Amount: 3
+    Object: {fileID: 1728748435590699432, guid: 8b0b85e2664f746b3b6b71a579daf898,
+      type: 3}
+  - Amount: 3
+    Object: {fileID: 8664820474993695217, guid: 21633a6062c534dcbbbdac1c09bc6bb3,
+      type: 3}
+  - Amount: 6
+    Object: {fileID: 4257045251562594191, guid: b703a38ce30de487c89d8ef77a90d524,
+      type: 3}
+  - Amount: 30
+    Object: {fileID: 8491112228896325411, guid: b1c2e16c77b604341b786d5c31c07dac,
+      type: 3}
+  - Amount: 30
+    Object: {fileID: 2476724644584535779, guid: 71a3b6da344b84e7eaa4ae4f484807b5,
+      type: 3}
+  - Amount: 30
+    Object: {fileID: 2299341773776727812, guid: 63fbf14fc09c2484498aed5fe9e857a8,
+      type: 3}
+  - Amount: 30
+    Object: {fileID: 1979762578915571162, guid: c82df12f7826749ac9f1051646f17297,
+      type: 3}
+  - Amount: 10
+    Object: {fileID: 4552684161919318398, guid: f2265d53bd4f74434814c58c30feae8d,
+      type: 3}
